@@ -2,7 +2,7 @@
 # router = ["R1", "R2", "R3", "R4", "R5", "R6"]
 
 # for routers in router:
-#     print(f"ssh lavance.davis@{routers}\n enable\n config t ")
+#     print(f"ssh name.name@{routers}\n enable\n config t ")
 #     for interfaces in interface:
 #         print(f"{interfaces}\n desc this is {interfaces}")
 
